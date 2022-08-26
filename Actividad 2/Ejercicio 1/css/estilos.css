@@ -1,0 +1,29 @@
+#titulo
+{
+    font-size: 50px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+}
+#jiji
+{
+    text-align: justify;
+    color: darkgreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#jojo
+{
+    color: saddlebrown;
+    font-weight: bold;
+}
+#parrafo1
+{
+    margin-bottom: 60px;
+    border: crimson solid;
+}
+#titulo2
+{
+    color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+

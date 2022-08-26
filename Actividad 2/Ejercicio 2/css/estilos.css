@@ -1,0 +1,25 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#formulario
+{
+    margin: 50px;
+}
+#parrafo
+{
+    border: 5px solid;
+    margin: 20px;
+    text-align: justify;
+}
+.estructura
+{
+    border: 5px solid;
+    margin-left: 5cm;
+    margin-right: 6cm;
+}
+.estructura #text
+{
+    border: 5px solid aqua;
+}
+
