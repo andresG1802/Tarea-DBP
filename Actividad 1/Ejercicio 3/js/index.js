@@ -4,7 +4,6 @@ function getImporte_compra()
     var cantidad=document.getElementById("cantidad").value;
     var precio_p=parseInt(precio_produto);
     var cant=parseInt(cantidad);
-    
     return precio_p*cant;
 }
 function Descuento_total()
